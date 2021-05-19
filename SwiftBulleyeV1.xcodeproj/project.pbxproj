@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		050F09952655A64500ABA423 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050F09942655A64500ABA423 /* AboutView.swift */; };
 		058214802641397100E51E01 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0582147F2641397100E51E01 /* AppDelegate.swift */; };
 		058214822641397100E51E01 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058214812641397100E51E01 /* SceneDelegate.swift */; };
 		058214842641397100E51E01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058214832641397100E51E01 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		050F09942655A64500ABA423 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		0582147C2641397100E51E01 /* SwiftBulleyeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBulleyeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0582147F2641397100E51E01 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		058214812641397100E51E01 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				0582147F2641397100E51E01 /* AppDelegate.swift */,
 				058214812641397100E51E01 /* SceneDelegate.swift */,
 				058214832641397100E51E01 /* ContentView.swift */,
+				050F09942655A64500ABA423 /* AboutView.swift */,
 				058214852641397400E51E01 /* Assets.xcassets */,
 				0582148A2641397400E51E01 /* LaunchScreen.storyboard */,
 				0582148D2641397400E51E01 /* Info.plist */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				050F09952655A64500ABA423 /* AboutView.swift in Sources */,
 				058214802641397100E51E01 /* AppDelegate.swift in Sources */,
 				058214822641397100E51E01 /* SceneDelegate.swift in Sources */,
 				058214842641397100E51E01 /* ContentView.swift in Sources */,
